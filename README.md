@@ -8,7 +8,7 @@ A tool to convert valid text to emoji (Fun Purpose)
 
 ## Usage/Examples
 
-```javascript
+```
 Enter text to convert to emoji (or type 'exit' to quit): heart
 ❤️
 ```
