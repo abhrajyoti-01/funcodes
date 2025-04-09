@@ -43,7 +43,7 @@ def text_to_emoji(text):
 
     return "".join(emojis)
 
-
+# Fun purpose
 if __name__ == "__main__":
     while True:
         user_input = input("Enter text to convert to emoji (or type 'exit' to quit): ")
